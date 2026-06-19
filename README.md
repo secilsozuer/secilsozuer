@@ -15,7 +15,7 @@ Research Interests: Healthcare Optimization, Supervised Machine Learning, Nonlin
 
 ### Work at INFICON
 
-Currently, I am a full time student. Within this, we have been covering:
+XXXXX
 - ***R Programming*** for data analysis and visualisation
 - ***SQL in Oracle APEX*** - using SQL to create relational tables, and using SQL Queries to gain meaningful insights
 - ***Python Programming*** - as a great multi-purpose programming tool
@@ -31,7 +31,7 @@ While not professional, here are a few projects I've worked on in the past 👇
 - ***Frontend Development*** - utilising HTML, CSS and JS to develop responsive websites
 - ***UI/UX Design*** - designing user-centric interfaces for various screen sizes
 -->
-#TBD
+
 <!--
 **secilsozuer/secilsozuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
