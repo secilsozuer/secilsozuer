@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Secil Sozuer
 I will publish some of my projects on my Github
 
-## A Little About Me
+## About Me
 I have a Ph.D. from the Department of Industrial and Systems Engineering at [Lehigh University](https://www2.lehigh.edu/)
 
 Research Interests: Healthcare Optimization, Supervised Machine Learning, Nonlinear Optimization, Scheduling and Heuristic Algorithm Development
 
 I have extensive experience in optimization, simulation modeling, and operations research. 
-
+I am currently looking for a job in Raleigh-Durham, North Carolina.
 
 ## Connect with Me
 [LinkedIn - Secil Sozuer](www.linkedin.com/in/secilsozuer)
