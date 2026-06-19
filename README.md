@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Secil Sozuer
 I will publish some of my projects on my Github
 
-## About Me
+## 👨‍🔬 About Me
 I have a Ph.D. from the Department of Industrial and Systems Engineering at [Lehigh University](https://www2.lehigh.edu/)
 
 I worked in healthcare/pharma and semiconductor industries. 
@@ -13,7 +13,7 @@ I worked in healthcare/pharma and semiconductor industries.
 ![Research&Industry Projects]([https://img.shields.io/badge/Built_with-Claude_Code-6C5CE7](https://coral.ise.lehigh.edu/ses515/?page_id=61))
 
 
-Research Interests: Healthcare Optimization, Supervised Machine Learning, Nonlinear Optimization, Scheduling and Heuristic Algorithm Development
+🔬 Research Interests: Healthcare Optimization, Supervised Machine Learning, Nonlinear Optimization, Scheduling and Heuristic Algorithm Development
 
 I have extensive experience in optimization, simulation modeling, and operations research. 
 I am currently looking for a job in Raleigh-Durham, North Carolina.
