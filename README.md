@@ -10,7 +10,7 @@ I have extensive experience in optimization, simulation modeling, and operations
 I am currently looking for a job in Raleigh-Durham, North Carolina.
 
 ## Connect with Me
-[LinkedIn - Secil Sozuer](www.linkedin.com/in/secilsozuer)
+[LinkedIn - Secil Sozuer](www.linkedin.com/in/secil-sozuer)
 
 <!--
 ## Current Work
