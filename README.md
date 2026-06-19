@@ -6,12 +6,22 @@ I have a Ph.D. from the Department of Industrial and Systems Engineering at [Leh
 
 I worked in healthcare/pharma and semiconductor industries. 
 
+<!--
 [![View Live Demo](https://img.shields.io/badge/▶_View-Live_Demo-1F3A5F?style=for-the-badge)](https://erkmenaslim.github.io/academic-website-demo/)
+[![Download the Skill](https://img.shields.io/badge/⤓_Download-The_Skill-f4a01c?style=for-the-badge)](https://github.com/erkmenaslim/academic-website-demo/releases/latest/download/academic-website-builder-skill.zip)
+&nbsp;
+![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-6C5CE7)
+![Python 3](https://img.shields.io/badge/Python-3.8%2B-blue)
+![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
-[![My CV] (https://img.shields.io/badge/▶_CV-1F3A5F?style=for-the-badge) ](https://www.linkedin.com/in/secil-sozuer/overlay/1781721941071/single-media-viewer/?profileId=ACoAAAbO6d0BXQUPrPvpyzBwa2J8SsdwvM0JHxs)
-[![My Teaching](https://coral.ise.lehigh.edu/ses515/?page_id=89)
-![Research&Industry Projects]([https://img.shields.io/badge/Built_with-Claude_Code-6C5CE7](https://coral.ise.lehigh.edu/ses515/?page_id=61))
+-->
 
+[![Download_CV](https://img.shields.io/badge/▶_Download_CV-1F3A5F?style=for-the-badge)](https://www.linkedin.com/in/secil-sozuer/overlay/1781721941071/single-media-viewer/?profileId=ACoAAAbO6d0BXQUPrPvpyzBwa2J8SsdwvM0JHxs)
+&nbsp;
+[![My_Teaching](https://img.shields.io/badge/▶_My_Teaching-1F3A5F?style=for-the-badge)](https://coral.ise.lehigh.edu/ses515/?page_id=89)
+&nbsp;
+[![Research&Industry Projects](https://img.shields.io/badge/▶_Research_Industry_Projects-1F3A5F?style=for-the-badge)](https://coral.ise.lehigh.edu/ses515/?page_id=61))
+&nbsp;
 
 🔬 Research Interests: Healthcare Optimization, Supervised Machine Learning, Nonlinear Optimization, Scheduling and Heuristic Algorithm Development
 
