@@ -6,6 +6,8 @@ I have a Ph.D. from the Department of Industrial and Systems Engineering at [Leh
 
 Research Interests: Healthcare Optimization, Supervised Machine Learning, Nonlinear Optimization, Scheduling and Heuristic Algorithm Development
 
+I have extensive experience in optimization, simulation modeling, and operations research. 
+
 
 ## Connect with Me
 [LinkedIn - Secil Sozuer](www.linkedin.com/in/secilsozuer)
