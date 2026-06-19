@@ -6,10 +6,10 @@ I have a Ph.D. from the Department of Industrial and Systems Engineering at [Leh
 
 I worked in healthcare/pharma and semiconductor industries. 
 
+[![View Live Demo](https://img.shields.io/badge/▶_View-Live_Demo-1F3A5F?style=for-the-badge)](https://erkmenaslim.github.io/academic-website-demo/)
 
-[![My CV]([https://img.shields.io/badge/▶_View-Live_Demo-1F3A5F?style=for-the-badge](https://www.linkedin.com/in/secil-sozuer/overlay/1781721941071/single-media-viewer/?profileId=ACoAAAbO6d0BXQUPrPvpyzBwa2J8SsdwvM0JHxs))](https://erkmenaslim.github.io/academic-website-demo/)
+[![My CV] (https://img.shields.io/badge/▶_CV-1F3A5F?style=for-the-badge) ](https://www.linkedin.com/in/secil-sozuer/overlay/1781721941071/single-media-viewer/?profileId=ACoAAAbO6d0BXQUPrPvpyzBwa2J8SsdwvM0JHxs)
 [![My Teaching](https://coral.ise.lehigh.edu/ses515/?page_id=89)
-&nbsp;
 ![Research&Industry Projects]([https://img.shields.io/badge/Built_with-Claude_Code-6C5CE7](https://coral.ise.lehigh.edu/ses515/?page_id=61))
 
 
