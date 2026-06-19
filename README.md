@@ -20,7 +20,7 @@ I worked in healthcare/pharma and semiconductor industries.
 &nbsp;
 [![My_Teaching](https://img.shields.io/badge/▶_My_Teaching-1F3A5F?style=for-the-badge)](https://coral.ise.lehigh.edu/ses515/?page_id=89)
 &nbsp;
-[![Research&Industry Projects](https://img.shields.io/badge/▶_Research_Industry_Projects-1F3A5F?style=for-the-badge)](https://coral.ise.lehigh.edu/ses515/?page_id=61))
+[![Research&Industry Projects](https://img.shields.io/badge/▶_Research_Industry_Projects-1F3A5F?style=for-the-badge)](https://coral.ise.lehigh.edu/ses515/?page_id=61)
 &nbsp;
 
 🔬 Research Interests: Healthcare Optimization, Supervised Machine Learning, Nonlinear Optimization, Scheduling and Heuristic Algorithm Development
