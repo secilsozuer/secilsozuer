@@ -2,7 +2,7 @@
 I will publish some of my projects on my Github
 
 ## 👨‍🔬 About Me
-I have a Ph.D. from the Department of Industrial and Systems Engineering at [Lehigh University](https://www2.lehigh.edu/)
+I have a Ph.D. from the Department of Industrial and Systems Engineering at [Lehigh University](https://www2.lehigh.edu/) Lehigh is R1 top engineering school in Pennsylvania.
 
 I worked in healthcare/pharma and semiconductor industries. 
 
